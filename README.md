@@ -1,5 +1,6 @@
 # Landmark Discovery Algorithm
 
+##Getting Started
 The landmark discovery algorithm is a new approach for density-based clustering that is able to detect groups of close clusters  coined as "landmarks". 
 
 Since it is based on density-based solution is suitable for real-time environments.
