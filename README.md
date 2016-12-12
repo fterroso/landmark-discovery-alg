@@ -5,8 +5,8 @@ The landmark discovery algorithm is a new approach for density-based clustering 
 
 Since it is based on density-based solution is suitable for real-time environments.
 
-## Third-party library dependencies
-
+## Requirements
+###Library dependencies
 * log4j v. >= 1.12.16
 * jcoord v1.0
 * jdom
