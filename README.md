@@ -12,6 +12,9 @@ Since it is based on density-based solution is suitable for real-time environmen
 * jdom
 * rtree
 
+## License
+The landmark discovery algorithm is licensed under General Public License (GPL) version 3.
+
 ## Reference
 
 Please, refer this application as:
